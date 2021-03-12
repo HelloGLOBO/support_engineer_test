@@ -10,12 +10,6 @@ You will be forking & cloning an open source (MIT LICENSE) blogging platform cal
 Publify is a simple but full featured web publishing software. It's built
 around a blogging engine and a small message system connected to Twitter.
 
-Publify follows the principles of the IndieWeb, which are self hosting your Web
-site, and Publish On your Own Site, Syndicate Everywhere.
-
-Publify has been around since 2004 and is the oldest Ruby on Rails open source
-project alive.
-
 #### Features
 
 - A classic multi user blogging engine
