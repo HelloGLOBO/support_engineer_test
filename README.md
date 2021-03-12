@@ -135,7 +135,7 @@ Expected behavior:
 2. Password field should say 'Password' (in english)
 
 ### Support Ticket \#4: Top Month Always Empty (Archive Sidebar)
-* When I click on the top-most month in the Archive Sidebar it says "No posts found...".
+When I click on the top-most month in the Archive Sidebar it says "No posts found...".
 
 Steps to reproduce:
 1. Visit http://0.0.0.0:3000
