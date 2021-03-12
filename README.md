@@ -85,7 +85,7 @@ $ rake db:seed
 * Go to the `/admin` backend and poke around (it's similar to wordpress).
 * Create your first blog post!
 
-##Support Tickets
+## Support Tickets
 
 A number of issues have been added to this application. Each one is expressed in a support ticket below. 
 For this assignment you will open the support ticket as indicated as a github issue in your forked
@@ -97,7 +97,7 @@ response.
 
 > Remember to copy the content of each ticket below to the `issues` section of your repo before you get started.
 
-###Support Ticket \#1: Inconsistent Sidebar Styles
+### Support Ticket \#1: Inconsistent Sidebar Styles
 The style of **Articles** on the sidebar is inconsistent with the other sidebar menu items.
 Steps to reproduce: 
 1. as admin login and create at least one article 
@@ -122,7 +122,7 @@ Steps to reproduce:
 Expected behavior:
 1. the tags one types are displayed in the article summary
 
-###Support Ticket \#3: Sign-in form displays raw span html in input fields
+### Support Ticket \#3: Sign-in form displays raw span html in input fields
 The http://0.0.0.0:3000/users/sign_in page shows `<span class=` in the input fields, and other HTML "debris" below them.
 
 Steps to reproduce:
@@ -134,7 +134,7 @@ Expected behavior:
 1. Login field should say 'Login' (in english)
 2. Password field should say 'Password' (in english)
 
-###Support Ticket \#4: Top Month Always Empty (Archive Sidebar)
+### Support Ticket \#4: Top Month Always Empty (Archive Sidebar)
 * When I click on the top-most month in the Archive Sidebar it says "No posts found...".
 
 Steps to reproduce:
@@ -145,7 +145,7 @@ Steps to reproduce:
 Expected behavior:
 1. When you click on the top most month in the sidebar that has at least one post we should see that post or posts
 
-###Support Ticket \#5: Months sorted incorrectly (Archive Sidebar)
+### Support Ticket \#5: Months sorted incorrectly (Archive Sidebar)
 The sort order of months in the Archive Sidebar is off, with January 2015 appearing directly above December 2015:
 
 Steps to reproduce:
