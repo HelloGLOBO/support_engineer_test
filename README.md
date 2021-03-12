@@ -95,7 +95,7 @@ back to the submitter. Once you fix and document or ask questions, move on to th
 We are hoping to see how you solve problems as well as how you communicate so please be as detailed as possible in each
 response.
 
-> Remember to copy the content of each ticket below to the `issues` section of your repo before you get started.
+> Remember to copy the content of each ticket below and create a new issue in the `issues` section of your repo before you get started.
 
 ### Support Ticket \#1: Inconsistent Sidebar Styles
 The style of **Articles** on the sidebar is inconsistent with the other sidebar menu items.
@@ -108,7 +108,7 @@ Expected behavior:
 1. Archives font should be monotype 
 2. Archives bullets should use unfilled-circle
 
-###Support Ticket \#2: Post tags are shown as "object"
+### Support Ticket \#2: Post tags are shown as "object"
 The list of tags associated with a given blog post always display "tags object, object, object".
 
 Steps to reproduce:
