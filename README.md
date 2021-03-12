@@ -104,9 +104,9 @@ Steps to reproduce:
 2. proceed to 0.0.0.0:3000 and view the article 
 3. on the right side observe the font for Archives differs from the other headers 
 4. on the right side observe that the bullet points under archives are filled circles 
+
 Expected behavior: 
-1. Archives font should be monotype 
-2. Archives bullets should use unfilled-circle
+1. The Archives should look like Tags, Links and meta. 
 
 ### Support Ticket \#2: Post tags are shown as "object"
 The list of tags associated with a given blog post always display "tags object, object, object".
