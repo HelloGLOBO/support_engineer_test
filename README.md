@@ -146,7 +146,7 @@ Expected behavior:
 1. When you click on the top most month in the sidebar that has at least one post we should see that post or posts
 
 ### Support Ticket \#5: Months sorted incorrectly (Archive Sidebar)
-The sort order of months in the Archive Sidebar is off, with January 2015 appearing directly above December 2015:
+The sort order of months in the Archive Sidebar is off
 
 Steps to reproduce:
 1. Visit http://0.0.0.0:3000
